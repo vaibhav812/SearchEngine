@@ -1,0 +1,690 @@
+Select an Option: 
+1. Boolean Query with Tiered Index 
+2. Boolean Query with Tiered Index and Score
+3. Ranked Query with Tiered Index
+4. Ranked Query with Tiered Index and Score
+5. Boolean Query with Base Index
+6. Ranked Query with Base Index
+4
+Enter the index path:
+D:\CSULB\Sem 3 - Fall 2017\Search Engine Technology\relevance_cranfieldM3Score 
+Non-Zero accumulator value: 437
+Only top tier: false
+Time for query 1 with score in microseconds: 36907.779
+Non-Zero accumulator value: 501
+Only top tier: false
+Time for query 2 with score in microseconds: 52025.182
+Non-Zero accumulator value: 428
+Only top tier: false
+Time for query 3 with score in microseconds: 20767.168
+Non-Zero accumulator value: 651
+Only top tier: false
+Time for query 4 with score in microseconds: 47949.338
+Non-Zero accumulator value: 404
+Only top tier: false
+Time for query 5 with score in microseconds: 10624.374
+Non-Zero accumulator value: 487
+Only top tier: false
+Time for query 6 with score in microseconds: 14940.415
+Non-Zero accumulator value: 608
+Only top tier: false
+Time for query 7 with score in microseconds: 53855.499
+Non-Zero accumulator value: 496
+Only top tier: false
+Time for query 8 with score in microseconds: 16365.795
+Non-Zero accumulator value: 262
+Only top tier: false
+Time for query 9 with score in microseconds: 4929.175
+Non-Zero accumulator value: 572
+Only top tier: false
+Time for query 10 with score in microseconds: 20206.182
+Non-Zero accumulator value: 575
+Only top tier: false
+Time for query 11 with score in microseconds: 45844.058
+Non-Zero accumulator value: 465
+Only top tier: false
+Time for query 12 with score in microseconds: 26476.984
+Non-Zero accumulator value: 324
+Only top tier: false
+Time for query 13 with score in microseconds: 26153.43
+Non-Zero accumulator value: 207
+Only top tier: false
+Time for query 14 with score in microseconds: 4349.621
+Non-Zero accumulator value: 197
+Only top tier: false
+Time for query 15 with score in microseconds: 6705.765
+Non-Zero accumulator value: 559
+Only top tier: false
+Time for query 16 with score in microseconds: 26224.936
+Non-Zero accumulator value: 582
+Only top tier: false
+Time for query 17 with score in microseconds: 42176.707
+Non-Zero accumulator value: 435
+Only top tier: false
+Time for query 18 with score in microseconds: 18712.457
+Non-Zero accumulator value: 630
+Only top tier: false
+Time for query 19 with score in microseconds: 40605.154
+Non-Zero accumulator value: 521
+Only top tier: false
+Time for query 20 with score in microseconds: 90988.462
+Non-Zero accumulator value: 493
+Only top tier: false
+Time for query 21 with score in microseconds: 49912.791
+Non-Zero accumulator value: 523
+Only top tier: false
+Time for query 22 with score in microseconds: 65580.907
+Non-Zero accumulator value: 354
+Only top tier: false
+Time for query 23 with score in microseconds: 9624.87
+Non-Zero accumulator value: 480
+Only top tier: false
+Time for query 24 with score in microseconds: 29510.263
+Non-Zero accumulator value: 511
+Only top tier: false
+Time for query 25 with score in microseconds: 39216.12
+Non-Zero accumulator value: 650
+Only top tier: false
+Time for query 26 with score in microseconds: 37016.816
+Non-Zero accumulator value: 529
+Only top tier: false
+Time for query 27 with score in microseconds: 31535.345
+Non-Zero accumulator value: 408
+Only top tier: false
+Time for query 28 with score in microseconds: 36065.114
+Non-Zero accumulator value: 577
+Only top tier: false
+Time for query 29 with score in microseconds: 37917.555
+Non-Zero accumulator value: 257
+Only top tier: false
+Time for query 30 with score in microseconds: 21923.907
+Non-Zero accumulator value: 622
+Only top tier: false
+Time for query 31 with score in microseconds: 56687.69
+Non-Zero accumulator value: 514
+Only top tier: false
+Time for query 32 with score in microseconds: 23701.287
+Non-Zero accumulator value: 608
+Only top tier: false
+Time for query 33 with score in microseconds: 20295.862
+Non-Zero accumulator value: 393
+Only top tier: false
+Time for query 34 with score in microseconds: 8996.328
+Non-Zero accumulator value: 409
+Only top tier: false
+Time for query 35 with score in microseconds: 8590.205
+Non-Zero accumulator value: 407
+Only top tier: false
+Time for query 36 with score in microseconds: 11855.779
+Non-Zero accumulator value: 359
+Only top tier: false
+Time for query 37 with score in microseconds: 6919.493
+Non-Zero accumulator value: 480
+Only top tier: false
+Time for query 38 with score in microseconds: 19226.431
+Non-Zero accumulator value: 309
+Only top tier: false
+Time for query 39 with score in microseconds: 8026.058
+Non-Zero accumulator value: 343
+Only top tier: false
+Time for query 40 with score in microseconds: 7147.443
+Non-Zero accumulator value: 526
+Only top tier: false
+Time for query 41 with score in microseconds: 27462.266
+Non-Zero accumulator value: 626
+Only top tier: false
+Time for query 42 with score in microseconds: 51949.329
+Non-Zero accumulator value: 606
+Only top tier: false
+Time for query 43 with score in microseconds: 28071.056
+Non-Zero accumulator value: 385
+Only top tier: false
+Time for query 44 with score in microseconds: 34642.895
+Non-Zero accumulator value: 452
+Only top tier: false
+Time for query 45 with score in microseconds: 21503.167
+Non-Zero accumulator value: 531
+Only top tier: false
+Time for query 46 with score in microseconds: 28758.462
+Non-Zero accumulator value: 535
+Only top tier: false
+Time for query 47 with score in microseconds: 24327.853
+Non-Zero accumulator value: 266
+Only top tier: false
+Time for query 48 with score in microseconds: 7088.579
+Non-Zero accumulator value: 558
+Only top tier: false
+Time for query 49 with score in microseconds: 49153.484
+Non-Zero accumulator value: 523
+Only top tier: false
+Time for query 50 with score in microseconds: 67750.977
+Non-Zero accumulator value: 598
+Only top tier: false
+Time for query 51 with score in microseconds: 43591.025
+Non-Zero accumulator value: 487
+Only top tier: false
+Time for query 52 with score in microseconds: 48152.793
+Non-Zero accumulator value: 598
+Only top tier: false
+Time for query 53 with score in microseconds: 55528.582
+Non-Zero accumulator value: 531
+Only top tier: false
+Time for query 54 with score in microseconds: 52721.279
+Non-Zero accumulator value: 464
+Only top tier: false
+Time for query 55 with score in microseconds: 33710.55
+Non-Zero accumulator value: 483
+Only top tier: false
+Time for query 56 with score in microseconds: 16645.498
+Non-Zero accumulator value: 491
+Only top tier: false
+Time for query 57 with score in microseconds: 26712.441
+Non-Zero accumulator value: 699
+Only top tier: false
+Time for query 58 with score in microseconds: 49037.335
+Non-Zero accumulator value: 466
+Only top tier: false
+Time for query 59 with score in microseconds: 9902.598
+Non-Zero accumulator value: 615
+Only top tier: false
+Time for query 60 with score in microseconds: 35515.19
+Non-Zero accumulator value: 539
+Only top tier: false
+Time for query 61 with score in microseconds: 29720.04
+Non-Zero accumulator value: 664
+Only top tier: false
+Time for query 62 with score in microseconds: 131799.048
+Non-Zero accumulator value: 464
+Only top tier: false
+Time for query 63 with score in microseconds: 14042.441
+Non-Zero accumulator value: 639
+Only top tier: false
+Time for query 64 with score in microseconds: 68757.197
+Non-Zero accumulator value: 510
+Only top tier: false
+Time for query 65 with score in microseconds: 53878.017
+Non-Zero accumulator value: 609
+Only top tier: false
+Time for query 66 with score in microseconds: 51602.861
+Non-Zero accumulator value: 558
+Only top tier: false
+Time for query 67 with score in microseconds: 29935.349
+Non-Zero accumulator value: 573
+Only top tier: false
+Time for query 68 with score in microseconds: 20165.491
+Non-Zero accumulator value: 407
+Only top tier: false
+Time for query 69 with score in microseconds: 29982.755
+Non-Zero accumulator value: 318
+Only top tier: false
+Time for query 70 with score in microseconds: 19964.405
+Non-Zero accumulator value: 305
+Only top tier: false
+Time for query 71 with score in microseconds: 5723.643
+Non-Zero accumulator value: 492
+Only top tier: false
+Time for query 72 with score in microseconds: 14601.847
+Non-Zero accumulator value: 588
+Only top tier: false
+Time for query 73 with score in microseconds: 37637.062
+Non-Zero accumulator value: 641
+Only top tier: false
+Time for query 74 with score in microseconds: 43392.309
+Non-Zero accumulator value: 617
+Only top tier: false
+Time for query 75 with score in microseconds: 86367.434
+Non-Zero accumulator value: 624
+Only top tier: false
+Time for query 76 with score in microseconds: 57955.441
+Non-Zero accumulator value: 560
+Only top tier: false
+Time for query 77 with score in microseconds: 41217.104
+Non-Zero accumulator value: 431
+Only top tier: false
+Time for query 78 with score in microseconds: 28944.931
+Non-Zero accumulator value: 530
+Only top tier: false
+Time for query 79 with score in microseconds: 13837.01
+Non-Zero accumulator value: 574
+Only top tier: false
+Time for query 80 with score in microseconds: 18213.89
+Non-Zero accumulator value: 530
+Only top tier: false
+Time for query 81 with score in microseconds: 20297.837
+Non-Zero accumulator value: 603
+Only top tier: false
+Time for query 82 with score in microseconds: 23739.212
+Non-Zero accumulator value: 403
+Only top tier: false
+Time for query 83 with score in microseconds: 35140.277
+Non-Zero accumulator value: 616
+Only top tier: false
+Time for query 84 with score in microseconds: 25147.604
+Non-Zero accumulator value: 606
+Only top tier: false
+Time for query 85 with score in microseconds: 20620.996
+Non-Zero accumulator value: 581
+Only top tier: false
+Time for query 86 with score in microseconds: 16854.881
+Non-Zero accumulator value: 560
+Only top tier: false
+Time for query 87 with score in microseconds: 44568.01
+Non-Zero accumulator value: 603
+Only top tier: false
+Time for query 88 with score in microseconds: 42465.891
+Non-Zero accumulator value: 604
+Only top tier: false
+Time for query 89 with score in microseconds: 31189.667
+Non-Zero accumulator value: 307
+Only top tier: false
+Time for query 90 with score in microseconds: 6221.815
+Non-Zero accumulator value: 281
+Only top tier: false
+Time for query 91 with score in microseconds: 6922.258
+Non-Zero accumulator value: 698
+Only top tier: false
+Time for query 92 with score in microseconds: 64900.218
+Non-Zero accumulator value: 617
+Only top tier: false
+Time for query 93 with score in microseconds: 31852.184
+Non-Zero accumulator value: 478
+Only top tier: false
+Time for query 94 with score in microseconds: 35767.238
+Non-Zero accumulator value: 366
+Only top tier: false
+Time for query 95 with score in microseconds: 17781.298
+Non-Zero accumulator value: 469
+Only top tier: false
+Time for query 96 with score in microseconds: 20195.516
+Non-Zero accumulator value: 529
+Only top tier: false
+Time for query 97 with score in microseconds: 29133.375
+Non-Zero accumulator value: 571
+Only top tier: false
+Time for query 98 with score in microseconds: 17084.016
+Non-Zero accumulator value: 568
+Only top tier: false
+Time for query 99 with score in microseconds: 27373.773
+Non-Zero accumulator value: 528
+Only top tier: false
+Time for query 100 with score in microseconds: 43046.236
+Non-Zero accumulator value: 537
+Only top tier: false
+Time for query 101 with score in microseconds: 39590.637
+Non-Zero accumulator value: 389
+Only top tier: false
+Time for query 102 with score in microseconds: 14183.478
+Non-Zero accumulator value: 424
+Only top tier: false
+Time for query 103 with score in microseconds: 30604.187
+Non-Zero accumulator value: 578
+Only top tier: false
+Time for query 104 with score in microseconds: 48351.51
+Non-Zero accumulator value: 535
+Only top tier: false
+Time for query 105 with score in microseconds: 40492.167
+Non-Zero accumulator value: 253
+Only top tier: false
+Time for query 106 with score in microseconds: 4791.3
+Non-Zero accumulator value: 664
+Only top tier: false
+Time for query 107 with score in microseconds: 50836.047
+Non-Zero accumulator value: 429
+Only top tier: false
+Time for query 108 with score in microseconds: 49859.457
+Non-Zero accumulator value: 259
+Only top tier: false
+Time for query 109 with score in microseconds: 8844.229
+Non-Zero accumulator value: 537
+Only top tier: false
+Time for query 110 with score in microseconds: 61239.978
+Non-Zero accumulator value: 520
+Only top tier: false
+Time for query 111 with score in microseconds: 23477.287
+Non-Zero accumulator value: 558
+Only top tier: false
+Time for query 112 with score in microseconds: 48030.325
+Non-Zero accumulator value: 412
+Only top tier: false
+Time for query 113 with score in microseconds: 9946.054
+Non-Zero accumulator value: 713
+Only top tier: false
+Time for query 114 with score in microseconds: 75381.184
+Non-Zero accumulator value: 562
+Only top tier: false
+Time for query 115 with score in microseconds: 37532.765
+Non-Zero accumulator value: 592
+Only top tier: false
+Time for query 116 with score in microseconds: 61206.398
+Non-Zero accumulator value: 595
+Only top tier: false
+Time for query 117 with score in microseconds: 54475.744
+Non-Zero accumulator value: 546
+Only top tier: false
+Time for query 118 with score in microseconds: 38882.294
+Non-Zero accumulator value: 636
+Only top tier: false
+Time for query 119 with score in microseconds: 45447.022
+Non-Zero accumulator value: 616
+Only top tier: false
+Time for query 120 with score in microseconds: 44344.406
+Non-Zero accumulator value: 488
+Only top tier: false
+Time for query 121 with score in microseconds: 15178.636
+Non-Zero accumulator value: 537
+Only top tier: false
+Time for query 122 with score in microseconds: 49457.285
+Non-Zero accumulator value: 559
+Only top tier: false
+Time for query 123 with score in microseconds: 38137.604
+Non-Zero accumulator value: 800
+Only top tier: false
+Time for query 124 with score in microseconds: 62602.543
+Non-Zero accumulator value: 266
+Only top tier: false
+Time for query 125 with score in microseconds: 6214.309
+Non-Zero accumulator value: 234
+Only top tier: false
+Time for query 126 with score in microseconds: 4201.868
+Non-Zero accumulator value: 637
+Only top tier: false
+Time for query 127 with score in microseconds: 41345.499
+Non-Zero accumulator value: 410
+Only top tier: false
+Time for query 128 with score in microseconds: 19824.159
+Non-Zero accumulator value: 500
+Only top tier: false
+Time for query 129 with score in microseconds: 20756.897
+Non-Zero accumulator value: 570
+Only top tier: false
+Time for query 130 with score in microseconds: 60399.289
+Non-Zero accumulator value: 552
+Only top tier: false
+Time for query 131 with score in microseconds: 22601.832
+Non-Zero accumulator value: 244
+Only top tier: false
+Time for query 132 with score in microseconds: 9950.005
+Non-Zero accumulator value: 253
+Only top tier: false
+Time for query 133 with score in microseconds: 8670.797
+Non-Zero accumulator value: 631
+Only top tier: false
+Time for query 134 with score in microseconds: 69235.221
+Non-Zero accumulator value: 447
+Only top tier: false
+Time for query 135 with score in microseconds: 40057.205
+Non-Zero accumulator value: 512
+Only top tier: false
+Time for query 136 with score in microseconds: 39105.108
+Non-Zero accumulator value: 878
+Only top tier: false
+Time for query 137 with score in microseconds: 47429.042
+Non-Zero accumulator value: 523
+Only top tier: false
+Time for query 138 with score in microseconds: 44377.591
+Non-Zero accumulator value: 593
+Only top tier: false
+Time for query 139 with score in microseconds: 69354.134
+Non-Zero accumulator value: 433
+Only top tier: false
+Time for query 140 with score in microseconds: 18682.433
+Non-Zero accumulator value: 548
+Only top tier: false
+Time for query 141 with score in microseconds: 18162.927
+Non-Zero accumulator value: 418
+Only top tier: false
+Time for query 142 with score in microseconds: 10374.3
+Non-Zero accumulator value: 533
+Only top tier: false
+Time for query 143 with score in microseconds: 26588.787
+Non-Zero accumulator value: 639
+Only top tier: false
+Time for query 144 with score in microseconds: 38445.752
+Non-Zero accumulator value: 597
+Only top tier: false
+Time for query 145 with score in microseconds: 26484.096
+Non-Zero accumulator value: 554
+Only top tier: false
+Time for query 146 with score in microseconds: 33139.292
+Non-Zero accumulator value: 478
+Only top tier: false
+Time for query 147 with score in microseconds: 29460.485
+Non-Zero accumulator value: 454
+Only top tier: false
+Time for query 148 with score in microseconds: 12649.456
+Non-Zero accumulator value: 462
+Only top tier: false
+Time for query 149 with score in microseconds: 18185.84
+Non-Zero accumulator value: 422
+Only top tier: false
+Time for query 150 with score in microseconds: 22497.931
+Non-Zero accumulator value: 511
+Only top tier: false
+Time for query 151 with score in microseconds: 33981.167
+Non-Zero accumulator value: 545
+Only top tier: false
+Time for query 152 with score in microseconds: 40113.303
+Non-Zero accumulator value: 293
+Only top tier: false
+Time for query 153 with score in microseconds: 17983.174
+Non-Zero accumulator value: 456
+Only top tier: false
+Time for query 154 with score in microseconds: 15630.586
+Non-Zero accumulator value: 331
+Only top tier: false
+Time for query 155 with score in microseconds: 10878.399
+Non-Zero accumulator value: 400
+Only top tier: false
+Time for query 156 with score in microseconds: 10919.089
+Non-Zero accumulator value: 615
+Only top tier: false
+Time for query 157 with score in microseconds: 32474.01
+Non-Zero accumulator value: 413
+Only top tier: false
+Time for query 158 with score in microseconds: 26941.971
+Non-Zero accumulator value: 553
+Only top tier: false
+Time for query 159 with score in microseconds: 56537.962
+Non-Zero accumulator value: 712
+Only top tier: false
+Time for query 160 with score in microseconds: 38826.59
+Non-Zero accumulator value: 732
+Only top tier: false
+Time for query 161 with score in microseconds: 47978.967
+Non-Zero accumulator value: 640
+Only top tier: false
+Time for query 162 with score in microseconds: 78046.266
+Non-Zero accumulator value: 548
+Only top tier: false
+Time for query 163 with score in microseconds: 75402.913
+Non-Zero accumulator value: 368
+Only top tier: false
+Time for query 164 with score in microseconds: 22837.288
+Non-Zero accumulator value: 490
+Only top tier: false
+Time for query 165 with score in microseconds: 26197.677
+Non-Zero accumulator value: 566
+Only top tier: false
+Time for query 166 with score in microseconds: 29872.928
+Non-Zero accumulator value: 604
+Only top tier: false
+Time for query 167 with score in microseconds: 70596.997
+Non-Zero accumulator value: 594
+Only top tier: false
+Time for query 168 with score in microseconds: 64787.23
+Non-Zero accumulator value: 643
+Only top tier: false
+Time for query 169 with score in microseconds: 46568.204
+Non-Zero accumulator value: 619
+Only top tier: false
+Time for query 170 with score in microseconds: 34754.302
+Non-Zero accumulator value: 645
+Only top tier: false
+Time for query 171 with score in microseconds: 27484.39
+Non-Zero accumulator value: 380
+Only top tier: false
+Time for query 172 with score in microseconds: 21390.97
+Non-Zero accumulator value: 491
+Only top tier: false
+Time for query 173 with score in microseconds: 21575.068
+Non-Zero accumulator value: 413
+Only top tier: false
+Time for query 174 with score in microseconds: 8184.873
+Non-Zero accumulator value: 397
+Only top tier: false
+Time for query 175 with score in microseconds: 9258.648
+Non-Zero accumulator value: 351
+Only top tier: false
+Time for query 176 with score in microseconds: 5471.989
+Non-Zero accumulator value: 444
+Only top tier: false
+Time for query 177 with score in microseconds: 17410.336
+Non-Zero accumulator value: 452
+Only top tier: false
+Time for query 178 with score in microseconds: 19288.061
+Non-Zero accumulator value: 739
+Only top tier: false
+Time for query 179 with score in microseconds: 77169.231
+Non-Zero accumulator value: 381
+Only top tier: false
+Time for query 180 with score in microseconds: 7727.787
+Non-Zero accumulator value: 256
+Only top tier: false
+Time for query 181 with score in microseconds: 5010.953
+Non-Zero accumulator value: 570
+Only top tier: false
+Time for query 182 with score in microseconds: 37780.468
+Non-Zero accumulator value: 435
+Only top tier: false
+Time for query 183 with score in microseconds: 12369.753
+Non-Zero accumulator value: 279
+Only top tier: false
+Time for query 184 with score in microseconds: 4756.534
+Non-Zero accumulator value: 178
+Only top tier: false
+Time for query 185 with score in microseconds: 3150.611
+Non-Zero accumulator value: 346
+Only top tier: false
+Time for query 186 with score in microseconds: 6940.035
+Non-Zero accumulator value: 552
+Only top tier: false
+Time for query 187 with score in microseconds: 42211.472
+Non-Zero accumulator value: 560
+Only top tier: false
+Time for query 188 with score in microseconds: 31933.172
+Non-Zero accumulator value: 653
+Only top tier: false
+Time for query 189 with score in microseconds: 38160.517
+Non-Zero accumulator value: 655
+Only top tier: false
+Time for query 190 with score in microseconds: 40323.081
+Non-Zero accumulator value: 512
+Only top tier: false
+Time for query 191 with score in microseconds: 22023.462
+Non-Zero accumulator value: 189
+Only top tier: false
+Time for query 192 with score in microseconds: 2784.389
+Non-Zero accumulator value: 277
+Only top tier: false
+Time for query 193 with score in microseconds: 7158.109
+Non-Zero accumulator value: 659
+Only top tier: false
+Time for query 194 with score in microseconds: 96310.328
+Non-Zero accumulator value: 638
+Only top tier: false
+Time for query 195 with score in microseconds: 68215.569
+Non-Zero accumulator value: 542
+Only top tier: false
+Time for query 196 with score in microseconds: 45925.44
+Non-Zero accumulator value: 400
+Only top tier: false
+Time for query 197 with score in microseconds: 16213.696
+Non-Zero accumulator value: 627
+Only top tier: false
+Time for query 198 with score in microseconds: 90604.463
+Non-Zero accumulator value: 450
+Only top tier: false
+Time for query 199 with score in microseconds: 17810.138
+Non-Zero accumulator value: 578
+Only top tier: false
+Time for query 200 with score in microseconds: 39203.479
+Non-Zero accumulator value: 532
+Only top tier: false
+Time for query 201 with score in microseconds: 37283.877
+Non-Zero accumulator value: 588
+Only top tier: false
+Time for query 202 with score in microseconds: 14481.749
+Non-Zero accumulator value: 557
+Only top tier: false
+Time for query 203 with score in microseconds: 16956.806
+Non-Zero accumulator value: 227
+Only top tier: false
+Time for query 204 with score in microseconds: 4262.312
+Non-Zero accumulator value: 342
+Only top tier: false
+Time for query 205 with score in microseconds: 24737.136
+Non-Zero accumulator value: 588
+Only top tier: false
+Time for query 206 with score in microseconds: 76857.132
+Non-Zero accumulator value: 374
+Only top tier: false
+Time for query 207 with score in microseconds: 15258.044
+Non-Zero accumulator value: 664
+Only top tier: false
+Time for query 208 with score in microseconds: 159843.24
+Non-Zero accumulator value: 535
+Only top tier: false
+Time for query 209 with score in microseconds: 24261.483
+Non-Zero accumulator value: 635
+Only top tier: false
+Time for query 210 with score in microseconds: 38776.812
+Non-Zero accumulator value: 531
+Only top tier: false
+Time for query 211 with score in microseconds: 21368.847
+Non-Zero accumulator value: 518
+Only top tier: false
+Time for query 212 with score in microseconds: 18741.297
+Non-Zero accumulator value: 638
+Only top tier: false
+Time for query 213 with score in microseconds: 37646.148
+Non-Zero accumulator value: 574
+Only top tier: false
+Time for query 214 with score in microseconds: 66501.794
+Non-Zero accumulator value: 685
+Only top tier: false
+Time for query 215 with score in microseconds: 132181.862
+Non-Zero accumulator value: 492
+Only top tier: false
+Time for query 216 with score in microseconds: 39478.441
+Non-Zero accumulator value: 502
+Only top tier: false
+Time for query 217 with score in microseconds: 30365.569
+Non-Zero accumulator value: 464
+Only top tier: false
+Time for query 218 with score in microseconds: 34657.907
+Non-Zero accumulator value: 494
+Only top tier: false
+Time for query 219 with score in microseconds: 24839.062
+Non-Zero accumulator value: 643
+Only top tier: false
+Time for query 220 with score in microseconds: 17583.768
+Non-Zero accumulator value: 500
+Only top tier: false
+Time for query 221 with score in microseconds: 13558.492
+Non-Zero accumulator value: 364
+Only top tier: false
+Time for query 222 with score in microseconds: 40093.946
+Non-Zero accumulator value: 344
+Only top tier: false
+Time for query 223 with score in microseconds: 20447.564
+Non-Zero accumulator value: 694
+Only top tier: false
+Time for query 224 with score in microseconds: 48917.236
+Non-Zero accumulator value: 482
+Only top tier: false
+Time for query 225 with score in microseconds: 10425.263
+Mean Average Precision: 0.2707157585922297
+The average number of non-zero accumulators used: 503.75111111111113
+Percentage of Queries that were satisfied by only top tier: 0.0
+Average time: 33389.392466666664 per Query
+Number of Queries per second: 29.949631488453136
